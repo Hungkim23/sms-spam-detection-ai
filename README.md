@@ -61,6 +61,16 @@ streamlit run app.py
 - Text EDA visualizations
 - Model comparison
 - Real-time spam prediction
+## Dashboard Preview
+
+**1. Text Exploratory Data Analysis (EDA)**
+![Text EDA](outputs/screenshots/eda.png)
+
+**2. Model Comparison & Metrics**
+![Model Comparison](outputs/screenshots/models.png)
+
+**3. Real-time Spam Prediction**
+![Predict Message](outputs/screenshots/prediction.png)
 
 ## Future Improvements
 - Add deep learning model such as LSTM or GRU.
